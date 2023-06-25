@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Computer One",
+        "img": "  https://i.ibb.co/4PBTHFY/pc1.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Two",
+        "img": " https://i.ibb.co/zn195hw/pc2.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Three",
+        "img": " https://i.ibb.co/pwJ2f1s/pc3.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Four",
+        "img": " https://i.ibb.co/vxwBYN0/pc4.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Five",
+        "img": "  https://i.ibb.co/SybHjLs/pc5.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Six",
+        "img": " https://i.ibb.co/xS4n3MM/pc6.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Seven",
+        "img": " https://i.ibb.co/CvWTbvr/pc7.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Eight",
+        "img": " https://i.ibb.co/ngBMny2/pc8.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Nine",
+        "img": " https://i.ibb.co/ZTMnpsf/pc9.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Ten",
+        "img": "  https://i.ibb.co/tC6Q5YG/pc10.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Eleven",
+        "img": "https://i.ibb.co/9WNdhn9/pc11.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    },
+    {
+        "name": "Computer Twelve",
+        "img": " https://i.ibb.co/5YhZ9RZ/pc12.webp",
+        "price": "12,000",
+        "description": "The Computer is a best computer in Bangladesh."
+    }
+]
